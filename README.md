@@ -1,2 +1,1 @@
-# wanghaishu.github.io
-personal website 
+Wang haishu's personal website
